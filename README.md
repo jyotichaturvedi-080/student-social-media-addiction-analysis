@@ -5,6 +5,26 @@ Power BI dashboard analyzing student social media usage, addiction, mental healt
 
 This project uses Power BI to analyze social media usage and its relationship with student addiction, mental health, sleep, academic performance, relationships, and social media conflicts. The dashboard provides interactive views across student demographics, lifestyle factors, academic impact, relationships, and individual student profiles.
 
+## 📊 Dashboard Preview
+
+### Executive Overview
+![Executive Overview](01_executive_overview.png)
+
+### Mental Health & Lifestyle
+![Mental Health & Lifestyle](02_mental_health_lifestyle.png)
+
+### Academic Impact
+![Academic Impact](03_academic_impact.png)
+
+### Relationships & Conflicts
+![Relationships & Conflicts](04_relationships_conflicts.png)
+
+### Interactive Story View
+![Interactive Story View](05_interactive_story_view.png)
+
+### Student Profile
+![Student Profile](06_student_profile.png)
+
 ## 📂 Repository Files
 
 * `student_social_media_addiction.pbix` — Power BI dashboard containing the complete data model, visuals, filters, and interactive analysis.
